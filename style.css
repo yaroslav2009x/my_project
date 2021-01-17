@@ -1,0 +1,13 @@
+body {
+    font-family: sans-serif;
+}
+nav, header{
+ background-color:lightgreen ;
+} 
+img{
+    margin: 10px;
+}
+h1{
+    text-align: center;
+    color: lightpink;
+}
